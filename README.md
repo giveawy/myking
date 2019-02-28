@@ -1,1 +1,2 @@
-# myking
+# mykingbot
+King Bot
